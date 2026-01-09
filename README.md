@@ -41,3 +41,7 @@ I'm a Software Engineer specializing in **Generative AI** and **Backend Systems*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mini2002&layout=compact&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mini2002/count.svg)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mini2002&color=blue)
+
