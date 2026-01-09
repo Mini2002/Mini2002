@@ -22,7 +22,7 @@ I'm a Software Engineer specializing in **Generative AI** and **Backend Systems*
 
 - 🔭 I’m currently working on **High-privacy RAG systems using Mistral 7B & Docker**
 - 🌱 I’m currently learning **Agentic Workflows & Advanced Vector Retrieval**
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or view my [Portfolio](https://mini-agarwal-personal-portfolio.vercel.app/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mini-agarwal-6b7a761b1/) or view my [Portfolio](https://mini-agarwal-personal-portfolio.vercel.app/)
 
 ---
 
