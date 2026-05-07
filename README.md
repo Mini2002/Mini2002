@@ -15,24 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Mini! 👋
-### AI Engineer | Bridging LLMs to Production 🚀
+# Hi there, I'm Mini! 
 
-I'm a Software Engineer specializing in **Generative AI** and **Backend Systems**. I build secure, on-premise RAG solutions that solve real enterprise problems.
+I'm a Software Engineer.
 
-- 🔭 I’m currently working on **High-privacy RAG systems using Mistral 7B & Docker**
-- 🌱 I’m currently learning **Agentic Workflows & Advanced Vector Retrieval**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mini-agarwal-6b7a761b1/) or view my [Portfolio](https://mini-agarwal-personal-portfolio.vercel.app/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mini-agarwal-6b7a761b1/)
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![C++](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SpringBoot](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
