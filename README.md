@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Mini! 
 
-I'm a Software Engineer.
+I'm a Software Engineer.Currently improving my problem solving, system design, and backend engineering skills.
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mini-agarwal-6b7a761b1/)
 
