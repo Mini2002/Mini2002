@@ -23,12 +23,17 @@ I'm a Software Engineer.
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SpringBoot](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+## Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Docker
+- Maven
+- Git & GitHub
+
+---
 
 ---
 
